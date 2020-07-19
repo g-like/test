@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cc657c80-8a45-4bf3-a8dd-fe03ffa982d2" name="默认的" comment="再玩一次">
+    <list default="true" id="1cdc77c0-1688-476a-b312-8776d7630b68" name="默认的" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/VSWorkspaceState.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/slnx.sqlite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/test/v16/.suo" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -9,100 +15,35 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Python Script" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1euCRCM3I11R1biCIxq9bNBC9kX" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="新增" />
-  </component>
+  <component name="ProjectId" id="1euTI0qgR4DJr0oVZLUszbgtmN1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="cc657c80-8a45-4bf3-a8dd-fe03ffa982d2" name="默认的" comment="" />
-      <created>1595162080092</created>
+      <changelist id="1cdc77c0-1688-476a-b312-8776d7630b68" name="默认的" comment="" />
+      <created>1595170395081</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1595162080092</updated>
-      <workItem from="1595162082870" duration="827000" />
+      <updated>1595170395081</updated>
+      <workItem from="1595170398856" duration="420000" />
     </task>
-    <task id="LOCAL-00001" summary="我就是来玩一下的">
-      <created>1595162208154</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1595162208155</updated>
-    </task>
-    <task id="LOCAL-00002" summary="再玩一次">
-      <created>1595162466452</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1595162466452</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
-  </component>
-  <component name="Vcs.Log.History.Properties">
-    <option name="COLUMN_ORDER">
-      <list>
-        <option value="0" />
-        <option value="2" />
-        <option value="3" />
-        <option value="1" />
-      </list>
-    </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="我就是来玩一下的" />
-    <MESSAGE value="再玩一次" />
-    <option name="LAST_COMMIT_MESSAGE" value="再玩一次" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="289" y="0" key="CommitChangelistDialog2" timestamp="1595164603682">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="241" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1595162465657" />
-    <state x="289" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1595164603682" />
-    <state x="162" y="0" key="SettingsEditor" timestamp="1595164621316">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="162" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1595164621316" />
-    <state x="0" y="14" key="Vcs.Push.Dialog.v2" timestamp="1595162469737">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="0" y="14" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1595162469737" />
-    <state x="93" y="93" width="1095" height="495" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1595162730144">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="93" y="93" width="1095" height="495" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1280.680@0.0.1280.680" timestamp="1595162730144" />
-    <state x="405" y="231" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1595162234014">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="405" y="231" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1595162234014" />
   </component>
 </project>
